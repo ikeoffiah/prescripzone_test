@@ -1,10 +1,11 @@
-export const chatItem = [{
-    key: 1,
-    image:
-      "https://res.cloudinary.com/dvjfsm8rc/image/upload/v1673094715/profileImage3_kdkmcd.jpg",
-    type: "",
-    msg: "Hi Pius, How are you?",
-  },
+export const chatItem = [
+  // {
+  //   key: 1,
+  //   image:
+  //     "https://res.cloudinary.com/dvjfsm8rc/image/upload/v1673094715/profileImage3_kdkmcd.jpg",
+  //   type: "",
+  //   msg: "Hi Pius, How are you?",
+  // },
   // {
   //   key: 2,
   //   image:
