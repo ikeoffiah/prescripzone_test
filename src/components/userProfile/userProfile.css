@@ -63,6 +63,38 @@
   .profile__card .card__header i {
     font-size: 20px;
   }
+
+  .important-section{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .blood{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+  }
+
+  .age-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+  }
+
   .card__content {
     border-top: 1px solid #ebe7fb;
     overflow: auto;
